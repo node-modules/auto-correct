@@ -1,6 +1,6 @@
 {
   "name": "auto-correct",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "auto correct for command line tools ",
   "main": "index.js",
   "scripts": {
