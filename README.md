@@ -1,6 +1,6 @@
 auto-correct
 ============
-[![Build Status](https://travis-ci.org/node-modules/auto-correct.svg?branch=0.4.3)](https://travis-ci.org/node-modules/auto-correct)
+[![Build Status](https://travis-ci.org/node-modules/auto-correct.svg)](https://travis-ci.org/node-modules/auto-correct)
 
 auto correct for command line tools
 
